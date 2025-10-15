@@ -22,16 +22,14 @@
 ## 레포지토리
 
 ### Frontend
-| |
+| [**FinGuardAI**](https://github.com/AI-Festival-2025-Fin-Agent/FinGuardAI)<br>웹 인터페이스 |
 |--------|
 | ![FinGuardAI](./assets/FinGuard.png) |
-| [**FinGuardAI**](https://github.com/AI-Festival-2025-Fin-Agent/FinGuardAI) - 웹 인터페이스 |
 
 ### Orchestration
-| |
+| [**A2A**](https://github.com/AI-Festival-2025-Fin-Agent/Multi-Agent)<br>Agent-to-Agent 시스템 |
 |--------|
 | ![A2A](./assets/Multi.png) |
-| [**A2A**](https://github.com/AI-Festival-2025-Fin-Agent/Multi-Agent) - Agent-to-Agent 시스템 |
 
 ### Agents
 | [**Flow Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Flow-Agent)<br>주가 검색 및 분석 | [**Insight Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Insight-Agent)<br>공시 문서 분석 | [**Rumor Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Rumor-Agent)<br>정보 신뢰도 검증 |
