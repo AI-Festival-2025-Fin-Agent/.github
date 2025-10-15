@@ -19,6 +19,16 @@
 - HyperCLOVA X 기반 자연어 처리
 - 투명하고 신뢰할 수 있는 검증 시스템
 
+## 레포지토리
+
+| 레포지토리 | 설명 | 언어 |
+|-----------|------|------|
+| [FinGuardAI](https://github.com/AI-Festival-2025-Fin-Agent/FinGuardAI) | 에이전트 기능 확인 웹 인터페이스 | HTML |
+| [Multi-Agent](https://github.com/AI-Festival-2025-Fin-Agent/Multi-Agent) | Multi-Agent 오케스트레이션 시스템 | Python |
+| [Flow-Agent](https://github.com/AI-Festival-2025-Fin-Agent/Flow-Agent) | 주가 검색 및 분석 에이전트 | Python |
+| [Insight-Agent](https://github.com/AI-Festival-2025-Fin-Agent/Insight-Agent) | 공시 문서 분석 에이전트 | Python |
+| [Rumor-Agent](https://github.com/AI-Festival-2025-Fin-Agent/Rumor-Agent) | 정보 신뢰도 검증 에이전트 | Python |
+
 ## 기대 효과
 - **정량적**: 투자 의사결정 속도 향상, 공시 분석 시간 단축, 허위 정보 판별
 - **정성적**: 정보 격차 해소, 시장 건전성 제고, 금융 포용성 확대
