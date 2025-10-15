@@ -22,21 +22,40 @@
 ## 레포지토리
 
 ### Frontend
-| 이미지 | 레포지토리 | 설명 |
-|--------|-----------|------|
-| ![FinGuardAI](./assets/FinGuard.png) | [**FinGuardAI**](https://github.com/AI-Festival-2025-Fin-Agent/FinGuardAI) | 웹 인터페이스 |
+| | |
+|--------|--------|
+| **이미지** | ![FinGuardAI](./assets/FinGuard.png) |
+| **레포지토리** | [**FinGuardAI**](https://github.com/AI-Festival-2025-Fin-Agent/FinGuardAI) |
+| **설명** | 웹 인터페이스 |
 
 ### Orchestration
-| 이미지 | 레포지토리 | 설명 |
-|--------|-----------|------|
-| ![A2A](./assets/Multi.png) | [**A2A**](https://github.com/AI-Festival-2025-Fin-Agent/Multi-Agent) | Agent-to-Agent 시스템 |
+| | |
+|--------|--------|
+| **이미지** | ![A2A](./assets/Multi.png) |
+| **레포지토리** | [**A2A**](https://github.com/AI-Festival-2025-Fin-Agent/Multi-Agent) |
+| **설명** | Agent-to-Agent 시스템 |
 
 ### Agents
-| 이미지 | 레포지토리 | 설명 |
-|--------|-----------|------|
-| ![Flow Agent](./assets/Flow.png) | [**Flow Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Flow-Agent) | 주가 검색 및 분석 |
-| ![Insight Agent](./assets/Insight.png) | [**Insight Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Insight-Agent) | 공시 문서 분석 |
-| ![Rumor Agent](./assets/Rumor.png) | [**Rumor Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Rumor-Agent) | 정보 신뢰도 검증 |
+**Flow Agent**
+| | |
+|--------|--------|
+| **이미지** | ![Flow Agent](./assets/Flow.png) |
+| **레포지토리** | [**Flow Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Flow-Agent) |
+| **설명** | 주가 검색 및 분석 |
+
+**Insight Agent**
+| | |
+|--------|--------|
+| **이미지** | ![Insight Agent](./assets/Insight.png) |
+| **레포지토리** | [**Insight Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Insight-Agent) |
+| **설명** | 공시 문서 분석 |
+
+**Rumor Agent**
+| | |
+|--------|--------|
+| **이미지** | ![Rumor Agent](./assets/Rumor.png) |
+| **레포지토리** | [**Rumor Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Rumor-Agent) |
+| **설명** | 정보 신뢰도 검증 |
 
 ## 기대 효과
 - **정량적**: 투자 의사결정 속도 향상, 공시 분석 시간 단축, 허위 정보 판별
