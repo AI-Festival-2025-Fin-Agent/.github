@@ -34,14 +34,10 @@
 | [**A2A**](https://github.com/AI-Festival-2025-Fin-Agent/Multi-Agent) - Agent-to-Agent 시스템 |
 
 ### Agents
-| |
-|--------|
-| ![Flow Agent](./assets/Flow.png) |
-| [**Flow Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Flow-Agent) - 주가 검색 및 분석 |
-| ![Insight Agent](./assets/Insight.png) |
-| [**Insight Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Insight-Agent) - 공시 문서 분석 |
-| ![Rumor Agent](./assets/Rumor.png) |
-| [**Rumor Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Rumor-Agent) - 정보 신뢰도 검증 |
+| | | |
+|--------|--------|--------|
+| ![Flow Agent](./assets/Flow.png) | ![Insight Agent](./assets/Insight.png) | ![Rumor Agent](./assets/Rumor.png) |
+| [**Flow Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Flow-Agent)<br>주가 검색 및 분석 | [**Insight Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Insight-Agent)<br>공시 문서 분석 | [**Rumor Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Rumor-Agent)<br>정보 신뢰도 검증 |
 
 ## 기대 효과
 - **정량적**: 투자 의사결정 속도 향상, 공시 분석 시간 단축, 허위 정보 판별
