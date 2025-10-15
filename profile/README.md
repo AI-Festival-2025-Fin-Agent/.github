@@ -22,7 +22,7 @@
 
 ## 레포지토리
 
-### WeB (Backend & Frontend)
+### Web (Backend & Frontend)
 | [**FinGuardAI**](https://github.com/AI-Festival-2025-Fin-Agent/FinGuardAI)<br>웹 인터페이스 |
 |--------|
 | ![FinGuardAI](./assets/FinGuard.png) |
