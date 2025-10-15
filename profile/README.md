@@ -21,13 +21,45 @@
 
 ## 레포지토리
 
-| 레포지토리 | 설명 | 언어 |
-|-----------|------|------|
-| [FinGuardAI](https://github.com/AI-Festival-2025-Fin-Agent/FinGuardAI) | 에이전트 기능 확인 웹 인터페이스 | HTML |
-| [Multi-Agent](https://github.com/AI-Festival-2025-Fin-Agent/Multi-Agent) | Multi-Agent 오케스트레이션 시스템 | Python |
-| [Flow-Agent](https://github.com/AI-Festival-2025-Fin-Agent/Flow-Agent) | 주가 검색 및 분석 에이전트 | Python |
-| [Insight-Agent](https://github.com/AI-Festival-2025-Fin-Agent/Insight-Agent) | 공시 문서 분석 에이전트 | Python |
-| [Rumor-Agent](https://github.com/AI-Festival-2025-Fin-Agent/Rumor-Agent) | 정보 신뢰도 검증 에이전트 | Python |
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://github.com/AI-Festival-2025-Fin-Agent/FinGuardAI">
+        <img src="./assets/FinGuard.png" width="100%" alt="FinGuardAI"/>
+        <br><b>FinGuardAI</b>
+      </a>
+      <br>웹 인터페이스
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/AI-Festival-2025-Fin-Agent/Multi-Agent">
+        <img src="./assets/Multi.png" width="100%" alt="A2A"/>
+        <br><b>A2A</b>
+      </a>
+      <br>Agent-to-Agent 시스템
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/AI-Festival-2025-Fin-Agent/Flow-Agent">
+        <img src="./assets/Flow.png" width="100%" alt="Flow Agent"/>
+        <br><b>Flow Agent</b>
+      </a>
+      <br>주가 검색 및 분석
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/AI-Festival-2025-Fin-Agent/Insight-Agent">
+        <img src="./assets/Insight.png" width="100%" alt="Insight Agent"/>
+        <br><b>Insight Agent</b>
+      </a>
+      <br>공시 문서 분석
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/AI-Festival-2025-Fin-Agent/Rumor-Agent">
+        <img src="./assets/Rumor.png" width="100%" alt="Rumor Agent"/>
+        <br><b>Rumor Agent</b>
+      </a>
+      <br>정보 신뢰도 검증
+    </td>
+  </tr>
+</table>
 
 ## 기대 효과
 - **정량적**: 투자 의사결정 속도 향상, 공시 분석 시간 단축, 허위 정보 판별
