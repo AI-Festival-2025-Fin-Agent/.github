@@ -3,6 +3,8 @@
 ## 프로젝트 개요
 [**제9회 2025 미래에셋증권 AI Festival**](https://miraeassetfesta.com/) **최우수상** 수상작 (Tech 부문)  
 개인투자자의 정보 격차 해소를 위한 Multi-Agent 기반 투자 의사결정 지원 시스템  
+  
+결선 발표 자료: [AI페스티벌_결선_발표자료_Fin에이전트.pdf](./assets/presentation.pdf)
 
 ## 핵심 기능
 
@@ -41,9 +43,6 @@
 
 ## 데모
 **URL**: http://211.188.58.94:8080/#home
-
-## 발표 자료
-결선 발표 자료: [AI페스티벌_결선_발표자료_Fin에이전트.pdf](./assets/presentation.pdf)
 
 ---
 **주최**: 미래에셋증권 Wealth Tech본부  
