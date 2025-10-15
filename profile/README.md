@@ -30,5 +30,5 @@
 결선 발표 자료: [AI페스티벌_결선_발표자료_Fin에이전트.pdf](./assets/presentation.pdf)
 
 ---
-**주최**: 미래에셋증권 Wealth Tech본부
+**주최**: 미래에셋증권 Wealth Tech본부  
 **결선 발표**: 2025년 10월 14일
