@@ -21,10 +21,19 @@
 
 ## 레포지토리
 
+### Frontend
 | 이미지 | 레포지토리 | 설명 |
 |--------|-----------|------|
 | ![FinGuardAI](./assets/FinGuard.png) | [**FinGuardAI**](https://github.com/AI-Festival-2025-Fin-Agent/FinGuardAI) | 웹 인터페이스 |
+
+### Orchestration
+| 이미지 | 레포지토리 | 설명 |
+|--------|-----------|------|
 | ![A2A](./assets/Multi.png) | [**A2A**](https://github.com/AI-Festival-2025-Fin-Agent/Multi-Agent) | Agent-to-Agent 시스템 |
+
+### Agents
+| 이미지 | 레포지토리 | 설명 |
+|--------|-----------|------|
 | ![Flow Agent](./assets/Flow.png) | [**Flow Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Flow-Agent) | 주가 검색 및 분석 |
 | ![Insight Agent](./assets/Insight.png) | [**Insight Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Insight-Agent) | 공시 문서 분석 |
 | ![Rumor Agent](./assets/Rumor.png) | [**Rumor Agent**](https://github.com/AI-Festival-2025-Fin-Agent/Rumor-Agent) | 정보 신뢰도 검증 |
